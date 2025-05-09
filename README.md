@@ -110,8 +110,4 @@ I structured my controller with several main components:
 5. **Visualization Tool**: Shows what's happening in the network
 6. **Command Interface**: Lets you interact with everything
 
-Check out my design document for more details on how I implemented these components and the algorithms I used.
-
-## Feedback Welcome!
-
-This was a challenging project that taught me a lot about networks and SDN principles. If you have any questions or suggestions, feel free to reach out!
+Please refer to my design document for more details on how I implemented these components and the algorithms I used.
